@@ -1,0 +1,212 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+%flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+%flex-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.main {
+  width: 100%;
+  padding: 100px 20px;
+  @extend %flex-column;
+}
+
+.categories {
+  max-width: 1230px;
+  width: 100%;
+  @extend %flex-center;
+  justify-content: space-between;
+  div {
+    @extend %flex-center;
+    gap: 8px;
+  }
+  .categories__btn {
+    padding: 8px 15px;
+    border-radius: 6px;
+    border: 1px solid #f29824;
+    background-color: transparent;
+    color: #f29824;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .categories__btn:hover {
+    color: #fff;
+    background-color: #f29824;
+  }
+  .active {
+    background-color: #f29824;
+    color: #fff;
+  }
+}
+
+//posts
+
+.posts {
+  @extend %flex-column;
+  padding: 50px 10px;
+  gap: 30px;
+  .posts__cards {
+    @extend %flex-center;
+    justify-content: space-between;
+    max-width: 1220px;
+    gap: 25px;
+    .posts__card:hover {
+      box-shadow: 0 0 10px;
+      .posts__card-footer {
+        background: #fff;
+        color: #000;
+        .posts__card-title {
+            color: #000;
+        }
+      }
+      .posts__card-bottom {
+        background-color: #fff;
+        .posts__views {
+          color: #f29824;
+        }
+      }
+      img {
+        transform: scale(1.1);
+      }
+    }
+    .posts__card {
+      position: relative;
+      overflow: hidden;
+      max-width: 285px;
+      width: 100%;
+      height: 366px;
+      border-radius: 10px;
+      @extend %flex-column;
+      transition: 0.3s all;
+      justify-content: space-between;
+      .posts__card-img {
+        position: absolute;
+        z-index: -1;
+        width: 285px;
+        height: 366px;
+        border-radius: 10px;
+        img {
+          border-radius: 10px;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          filter: brightness(0.5);
+        transition: .3s all;
+        }
+      }
+      .posts__card-top {
+        width: 100%;
+        padding: 10px;
+        @extend %flex-center;
+        justify-content: space-between;
+        p:first-child {
+          background-color: #f29824;
+          padding: 0 8px;
+          border-radius: 4px;
+        }
+        p:nth-child(2) {
+          background-color: rgba(0, 0, 0, 0.5);
+          padding: 0 8px;
+          border-radius: 4px;
+        }
+        p {
+          color: #fff;
+        }
+        .posts__heart {
+          color: #fff;
+          font-size: 24px;
+          margin-top: -6px;
+          cursor: pointer;
+        }
+      }
+      .posts__card-footer {
+        @extend %flex-column;
+        border-radius: 0 0 10px 10px;
+        width: 100%;
+        transition: 0.3s all;
+        background-color: rgba(0, 0, 0, 0.5);
+        .posts__card-title {
+          margin: 0;
+          width: 100%;
+          height: 80px;
+          font-size: 18px;
+          color: #fff;
+          padding: 15px 20px;
+          border-bottom: 1px solid silver;
+          transition: 0.3s all;
+        }
+        .posts__card-bottom {
+          border-radius: 0 0 10px 10px;
+          width: 100%;
+          height: 54px;
+          @extend %flex-center;
+          justify-content: space-between;
+          padding: 0 20px;
+          color: #fff;
+          transition: 0.3s all;
+
+          .posts__views {
+            margin-top: -8px;
+            @extend %flex-center;
+            gap: 10px;
+            size: 13px;
+          }
+          p {
+            margin-top: 6px;
+            padding: 3px 10px;
+            background-color: #00bda6;
+            border-radius: 3px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.view__more {
+    padding: 8px 15px;
+    background-color: #f29824;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+}
+
+@media (max-width: 1100px) {
+  
+  .categories {
+    flex-direction: column-reverse;
+    gap: 10px;
+    align-items: flex-start;
+    div:first-child{
+      justify-content: start;
+    }
+  }
+}
+
+@media (max-width: 789px) {
+  .posts .posts__cards {
+    // justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    .posts__card {
+      height: 280px;
+    }
+  }
+}

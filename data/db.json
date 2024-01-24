@@ -1,0 +1,81 @@
+{
+    "posts": [
+        {
+            "year": "2007",
+            "episodes": "157-500",
+            "name": "Naruto: Bo'ron yilnomalari {TV-2}[15+]",
+            "views": "48483",
+            "img": "Naruto"
+        },
+        {
+            "year": "2024",
+            "episodes": "2-12",
+            "name": "Sehr va mushaklar {TV-2}[13+]",
+            "views": "4927",
+            "img": "Sehr"
+        },
+        {
+            "year": "2006",
+            "episodes": "5-201",
+            "name": "Gintama [13+]",
+            "views": "4153",
+            "img": "Gintama"
+        },
+        {
+            "year": "2023",
+            "episodes": "20-22",
+            "name": "Doktor Stoun: Yangi Dunyo {TV-3}[15+]",
+            "views": "9256",
+            "img": "Stoun"
+        },
+        {
+            "year": "2004",
+            "episodes": "286-366",
+            "name": "Bleach {TV-1}[15+]",
+            "views": "48483",
+            "img": "Bleach"
+        },
+        {
+            "year": "2020",
+            "episodes": "1",
+            "name": "Mortal Kombatv[17+]",
+            "views": "4216",
+            "img": "Mortal Kombat"
+        },
+        {
+            "year": "2024",
+            "episodes": "2-12",
+            "name": "Solo leveling[17+]",
+            "views": "7738",
+            "img": "Solo leveling"
+        },
+        {
+            "year": "2023",
+            "episodes": "10-?",
+            "name": "Omadsiz tirik murda [17+]",
+            "views": "12742",
+            "img": "Murda"
+        },
+        {
+            "year": "2023",
+            "episodes": "12",
+            "name": "Xarobalar qirolligi [17+]",
+            "views": "10883",
+            "img": "Xaroba"
+        },
+        {
+            "year": "2024",
+            "episodes": "1-12",
+            "name": "Jodugar va Maxluq [15+]",
+            "views": "1722",
+            "img": "Jodugar"
+        },
+        {
+            "year": "1999",
+            "episodes": "140-1200",
+            "name": "One piece [15+]",
+            "views": "24853",
+            "img": "Luffy"
+        }
+    ]
+}
