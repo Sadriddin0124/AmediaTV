@@ -22,7 +22,7 @@
 }
 
 .slider__img {
-  height: 98vh;
+  min-height: 98vh;
   width: 100vw;
   object-fit: cover;
   filter: brightness(0.3);
