@@ -3,7 +3,6 @@ import "./Main.scss";
 import axios from "axios";
 import { Link } from "react-router-dom";
 import { MdNavigateNext } from "react-icons/md";
-import Header from "../Header/Header";
 import Naruto from "../../Assets/posts/naruto.webp";
 import Sehr from "../../Assets/posts/sehr.jpeg";
 import Gintama from "../../Assets/posts/gintama.jpeg";
@@ -16,6 +15,8 @@ import { FaHeart } from "react-icons/fa";
 import { FaEye } from "react-icons/fa";
 import News from "../News/News";
 import Footer from "../Footer/Footer";
+import Navbar from "../Navbar/Navbar";
+import ImgSlider from "../img_slider/ImgSlider";
 const Main = () => {
   const [images, setImages] = useState([
     `${Naruto}`,
@@ -45,7 +46,8 @@ const Main = () => {
   ]);
   return (
     <div className="main-container">
-      <Header />
+      <Navbar />
+      <ImgSlider/>
       <div className="main">
         <div className="categories">
           <div>
@@ -64,7 +66,7 @@ const Main = () => {
         <div className="posts__cards">
         {posts.map((item, index) => {
           return (
-            <div className="posts__card" key={index}>
+            <Link to={`/single_posts/${item.episode}`} className="posts__card" key={index}>
               <div className="posts__card-img">
                 <img src={images[index]} alt={item.img} />
               </div>
@@ -80,7 +82,7 @@ const Main = () => {
                   <p>Pullik</p>
                 </div>
               </div>
-            </div>
+            </Link>
           );
         })}
         </div>

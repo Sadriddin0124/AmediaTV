@@ -14,12 +14,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 const Footer = () => {
   return (
     <div>
-      <div className="footer__top">
-        <div className="footer__top-item">
-          <h1 className="footer__title">Yangiliklar</h1>
-          <button className="footer__btn">Barchasi</button>
-        </div>
-      </div>
+      
       <footer className="footer">
         <h1 className="footer__bg-title">AMEDIATV</h1>
         <div className="footer__bottom">

@@ -1,8 +1,10 @@
 import React from "react";
 import "./News.scss";
+import "../Footer/Footer.scss"
 const News = () => {
   return (
-    <div className="news">
+    <div>
+      <div className="news">
       <div className="news__item">
         <div className="news__item-top">
           <h1 className="news__title">Yangilik</h1>
@@ -28,6 +30,13 @@ const News = () => {
               allowfullscreen
             ></iframe>
           </div>
+        </div>
+      </div>
+    </div>
+    <div className="footer__top">
+        <div className="footer__top-item">
+          <h1 className="footer__title">Yangiliklar</h1>
+          <button className="footer__btn">Barchasi</button>
         </div>
       </div>
     </div>

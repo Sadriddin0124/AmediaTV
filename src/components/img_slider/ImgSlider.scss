@@ -22,7 +22,7 @@
 }
 
 .slider__img {
-  min-height: 98vh;
+  height: 98vh;
   width: 100vw;
   object-fit: cover;
   filter: brightness(0.3);
@@ -122,6 +122,8 @@ button.slick-arrow.slick-next {
 .slider__desc {
   color: #fff;
   max-width: 700px;
+  height: 100px;
+  overflow: hidden;
 }
 
 .slider__category {

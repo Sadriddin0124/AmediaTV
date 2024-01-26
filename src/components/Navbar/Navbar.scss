@@ -21,6 +21,7 @@
 
 .navbar {
   position: fixed !important;
+  top: 0;
   z-index: 12;
   width: 100%;
   background: transparent;
@@ -113,6 +114,7 @@
   height: 100vh;
   background: #252831;
   position: fixed;
+  z-index: 15;
   left: 0;
   top: 0;
   padding: 20px;
@@ -150,6 +152,7 @@
 .bar__left {
   transition: 0.3s all;
   left: 0;
+  cursor: pointer;
 }
 
 .responsive__navbar-body {
@@ -227,6 +230,26 @@
   display: block;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+.search__bar {
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #f29824 #f0f0f0; 
+}
+
+.scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #888888; 
+}
+
+.scrollbar-track {
+  border-radius: 10px;
+  background-color: #f0f0f0; 
+}
+
 .search__value {
   @extend %flex-center;
   justify-content: start;
@@ -247,6 +270,9 @@
 }
 
 @media (max-width: 789px) {
+  .navbar__auth {
+    padding: 0 6px 6px 0 !important;
+  }
   .change__navbar__search {
     // top: 100px;
     left: 0px;
@@ -258,6 +284,10 @@
     left: 10px;
     width: 90%;
     transition: .3s all;
+}
+.search__bar {
+  left: 0;
+  width: 80vw;
 }
 .search__icon-2 {
     position: absolute;

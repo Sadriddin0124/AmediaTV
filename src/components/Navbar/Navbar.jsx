@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Header.scss";
+import "./Navbar.scss";
 import Logo from "../../Assets/logo.png";
 import { Link } from "react-router-dom";
 import { FaSearch } from "react-icons/fa";
@@ -14,7 +14,7 @@ import Bleach from "../../Assets/posts/bleach.jpg";
 import Meliodas from "../../Assets/posts/meliodas.jpg";
 import Mortal from "../../Assets/posts/mortal.jpg";
 import Leveling from "../../Assets/posts/leveling.jpeg";
-const Header = () => {
+const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const [navbar_status, setNavbar_status] = useState(false);
   const [searchClick, setSearchClick] = useState(false);
@@ -60,7 +60,6 @@ const Header = () => {
       console.log(filter);
     })
     setSearchBar(true)
-    // if (e.target.value.toLowerCase.includes)
   }
   return (
     <div className="header-container">
@@ -140,11 +139,9 @@ const Header = () => {
           </ul>
         </div>
       </nav>
-      <header className="header">
-        <ImgSlider />
-      </header>
+      
     </div>
   );
 };
 
-export default Header;
+export default Navbar;

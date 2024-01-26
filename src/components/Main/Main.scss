@@ -91,6 +91,7 @@
       width: 100%;
       height: 366px;
       border-radius: 10px;
+      text-decoration: none;
       @extend %flex-column;
       transition: 0.3s all;
       justify-content: space-between;
