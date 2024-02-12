@@ -25,7 +25,7 @@
   @extend %flex-column;
 }
 
-.categories {
+.categories__btns {
   max-width: 1230px;
   width: 100%;
   @extend %flex-center;
@@ -97,7 +97,7 @@
       justify-content: space-between;
       .posts__card-img {
         position: absolute;
-        z-index: -1;
+        z-index: 1;
         width: 285px;
         height: 366px;
         border-radius: 10px;
@@ -111,6 +111,8 @@
         }
       }
       .posts__card-top {
+        position: relative;
+        z-index: 3;
         width: 100%;
         padding: 10px;
         @extend %flex-center;
@@ -129,13 +131,52 @@
           color: #fff;
         }
         .posts__heart {
+          position: relative;
           color: #fff;
           font-size: 24px;
           margin-top: -6px;
           cursor: pointer;
+          width: 25px;
+          height: 25px;
+        }
+        .posts__fav {
+          position: absolute;
+          transition: .1s all;
+        }
+        .posts__saved {
+          color: red;
+          animation: heart .4s linear forwards;
+        }
+        @keyframes heart {
+          0%{
+            transform: scale(1)
+          }
+          50%{
+            transform: scale(1.5)
+          }
+          100%{
+            transform: scale(1)
+          }
+        }
+        .posts__removed {
+          color: #fff;
+          animation: removeheart .4s linear forwards;
+        }
+        @keyframes removeheart {
+          0%{
+            transform: scale(1)
+          }
+          50%{
+            transform: scale(1.5)
+          }
+          100%{
+            transform: scale(1)
+          }
         }
       }
       .posts__card-footer {
+        position: relative;
+        z-index: 2;
         @extend %flex-column;
         border-radius: 0 0 10px 10px;
         width: 100%;
@@ -189,9 +230,19 @@
     font-weight: 500;
 }
 
-@media (max-width: 1100px) {
-  
-  .categories {
+.posts__single-page {
+  position: absolute;
+  width: 100%;
+  height: 89%;
+  bottom: 0;
+  z-index: 3;
+}
+
+@media (max-width: 1230px) {
+  .posts .posts__cards {
+    justify-content: center;
+  }
+  .categories__btns {
     flex-direction: column-reverse;
     gap: 10px;
     align-items: flex-start;
@@ -203,7 +254,6 @@
 
 @media (max-width: 789px) {
   .posts .posts__cards {
-    // justify-content: center;
     display: grid;
     grid-template-columns: auto auto;
     .posts__card {

@@ -13,7 +13,7 @@ import Bleach from "../../Assets/bleach.jpg"
 import BleachChild from "../../Assets/bleach-child.jpg"
 import Sehr from "../../Assets/sehr.jpeg"
 import SehrChild from "../../Assets/sehr-child.jpeg"
-const ImgSlider = () => {
+const ImgSlider = ({setSearchClick}) => {
   const images = [
     {
       img: `${Img1}`,
@@ -71,9 +71,9 @@ Bir kuni uning yotoqxonasida Rukiya kuchiki ismli qiz to'satdan e'lon qilinadi. 
     autoplaySpeed: 3000,
   };
   return (
-    <Slider {...settings} className="slider">
+    <Slider {...settings} className="slider" >
       {images.map((image, index) => (
-        <div key={index} className=" position-relative">
+        <div key={index} className=" position-relative" onClick={()=>setSearchClick(false)}>
           <div className="slider__card">
             <div className="slider__text">
               <p className="slider__category">{image.category}</p>

@@ -1,137 +1,678 @@
 {
-    "posts": [
-        {
-            "year": "2007",
-            "episodes": "157-500",
-            "name": "Naruto: Bo'ron yilnomalari {TV-2}[15+]",
-            "views": "48483",
-            "img": "Naruto",
-            "country": "Yaponiya",
-            "studio": "Pierrot",
-            "director": "Osamu Koboyasi, Xayato Date, Masaxiko Murato, Tiaki Kon,",
-            "genre": "Ekshen Syonen Sarguzasht Fantaziya Fantastika Gʻayrioddiy Komediya Super kuch Jangari Triller Jang san'ati",
-            "category": "Hamma animelar Ongoing",
-            "desc": "Chronicles bo'roni yosh ninja Naruto Uzumaki va uning do'stlarining sarguzashtlari haqidagi hikoyani davom ettiradi. Serial boshlanganiga uch yil bo‘ldi, qahramonlar ulg‘ayib, hayotiy tajriba orttirmoqda, mahoratini oshirmoqda. Naruto Yashirin Barg qishlog'iga qaytadi va ilgari u, Sasuke va Sakura islohotlaridan iborat jamoa. Undagi Sasuke o'rnini Sai ismli yosh nindzya egallaydi va ular birgalikda 'Kakashi jamoasi' nomini olishadi. Ammo bulutsiz hayot uzoq davom etmaydi. Konoxada birinchi Xokage qoldirgan eski kelishmovchiliklar yana avj oldi. Akatsuki rahbari dunyo hukmronligini orzu qiladi va Qum qishlog'ida eski sirlar qayta paydo bo'ladi. Tez orada butun dunyo jiddiy sinovlar va og'ir zarbalarga duch keladi.",
-            "episode" : 157
-        },
-        {
-            "year": "2024",
-            "episodes": "2-12",
-            "name": "Sehr va mushaklar {TV-2}[13+]",
-            "views": "4927",
-            "img": "Sehr",
-            "country": "Yaponiya",
-            "studio": "A-1 Pictures",
-            "director": "Tanaka Tomoya",
-            "genre": "Ekshen Syonen Fantaziya Komediya Maktab",
-            "category": "Hamma animelar Ongoing",
-            "desc": "Chronicles bo'roni yosh ninja Naruto Uzumaki va uning do'stlarining sarguzashtlari haqidagi hikoyani davom ettiradi. Serial boshlanganiga uch yil bo‘ldi, qahramonlar ulg‘ayib, hayotiy tajriba orttirmoqda, mahoratini oshirmoqda. Naruto Yashirin Barg qishlog'iga qaytadi va ilgari u, Sasuke va Sakura islohotlaridan iborat jamoa. Undagi Sasuke o'rnini Sai ismli yosh nindzya egallaydi va ular birgalikda 'Kakashi jamoasi' nomini olishadi. Ammo bulutsiz hayot uzoq davom etmaydi. Konoxada birinchi Xokage qoldirgan eski kelishmovchiliklar yana avj oldi. Akatsuki rahbari dunyo hukmronligini orzu qiladi va Qum qishlog'ida eski sirlar qayta paydo bo'ladi. Tez orada butun dunyo jiddiy sinovlar va og'ir zarbalarga duch keladi.",
-            "episode" : 3
-        },
-        {
-            "year": "2006",
-            "episodes": "5-201",
-            "name": "Gintama [13+]",
-            "views": "4153",
-            "img": "Gintama",
-            "country": "Yaponiya",
-            "studio": "Sunrise",
-            "director": "Takamatsu Shinji",
-            "genre": "Syonen Ekshen Komediya Fantastika Tarixiy Jangari",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 6,
-            "desc": "Feoadallar davridagi Yaponiyada yashash misoli mashaqqat demak… Oʻzga sayyoraliklar bosib olgan boʻlsa ayniqsa. Toʻgʻri, tatbiq etilgan yangi qonunlar meʼyordan chiqib ketgancha emas. Biroq qilich olib yurishga qoʻyilgan taqiq rosmana samuraylarni junbishga keltirmasdan qoʻymadi. Haqiqiy yapon ruhi unda mujassam etgan soʻnggi samuray boʻlmish Sakata Gintoki norozilar orasida hatto ajralib turardi. Gintoki olamdagi eng qudratli irq namoyandasi — Kagura hamda koʻzoynakli Shimura Shinpachilar bilan birga istiqomat qiladi. Uchovlon bir nom ostida “Gintoki janoblarining ishbilarmonlari” deb nomlangan agentlikni yoʻlga qoʻyar ekan, mushukni qutqarishdan tortib dunyoni asrab qolishgacha boʻlgan turli-tuman aqlga sigʻmas va bachkana vazifalarni buyurtma sifatida qabul qilishni boshlashadi. Aks holda uchovlon qanday qilib turarjoyiga pul toʻlay ham olardi? Yeb-ichari hisobga olinmadi hali."
-        },
-        {
-            "year": "2023",
-            "episodes": "20-22",
-            "name": "Doktor Stoun: Yangi Dunyo {TV-3}[15+]",
-            "views": "9256",
-            "img": "Stoun",
-            "country": "Yaponiya",
-            "studio": "MS Entertainment",
-            "director": "Syuxey Matsusita",
-            "genre": "Fantastika Sarguzasht Komediya Syonen",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 20,
-            "desc": "Bir kuni Tayju Oki o'zini qo'lga olib, bir qizga sevgi izhor qilmoqchi bo'lganida, osmonni g'alati yorug'lik qoplidi. Uni ko'rgan barcha odamlar toshga aylandi. Deyarli to'rt ming yil o'tgach, u nihoyat tosh asirlikdan chiqib, atrofni o'rganishga kirishadi. Kutilmaganda, Tayjuni olti oy oldin uyg'ongan eski do'sti Senku kutib oladi. Senku Tayjuni o'zining daraxt uyiga olib keladi va odamlarni toshga aylantirgan yorug'likning asl mohiyatini kashf qilishdan boshlab, yo'qolgan insoniyat sivilizatsiyasini qayta tiklashini boshlashadi."
-        },
-        {
-            "year": "2004",
-            "episodes": "286-366",
-            "name": "Bleach {TV-1}[15+]",
-            "views": "48483",
-            "img": "Bleach",
-            "country": "Yaponiya",
-            "studio": "Pierrot",
-            "director": "Noriyuki Abe",
-            "genre": "Komediya Gʻayrioddiy Syonen Ekshen Sarguzasht Fantastika Maktab",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 286,
-            "desc": "Ichigo Kurosaki bolaligidan o'liklarning ruhlari va ruhlarini ko'rgan. Hozir u o'n besh yoshda, u zamonaviy Yaponiyada yashaydi va o'rta maktabda o'qiydi. Bir kuni uning yotoqxonasida Rukiya kuchiki ismli qiz to'satdan e'lon qilinadi. U shinigami va Ichigo nafaqat uni ko'rishi, balki eshitilmagan masala bilan ham shug'ullanishi mumkinligidan hayratda. Boshlangan munosabatlarni aniqlash bo'shning paydo bo'lishi bilan to'xtatiladi, uning orqasida Rukiya paydo bo'ldi. Bo'sh bilan jang muvaffaqiyatsiz bo'ladi: Ichigoni himoya qilishga majbur bo'lgan Rukiya jiddiy yaralanadi. Ichigoni qutqarish uchun u unga o'z qobiliyatining bir qismini beradi, lekin ajablanib, Ichigo uning barcha energiyasini o'zlashtiradi va o'zi sinigamiga aylanadi. Rukiyani kuchsiz va deyarli yordamsiz qoldirib, Ichigo bo'shni osonlikcha engib chiqadi."
-        },
-        {
-            "year": "2020",
-            "episodes": "1",
-            "name": "Mortal Kombat [17+]",
-            "views": "4216",
-            "img": "Mortal Kombat",
-            "country": "Amerika",
-            "studio": "Warner Bros",
-            "director": "Spaulding Iten",
-            "genre": "Anime Filmlar Yakunlangan Animelar Hamma animelar",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 1,
-            "desc": "Raqib boʻlmish Lin Kuei avlodining hujumi oqibatida Hasashi Hanzo oilasidan judo boʻladi. Hasashi Hanzoga oʻz yaqinlarini qaytarib olishi uchun berilgan imkoniyatdan foydalangan holda u ichki oʻlchovli olamdagi musobaqada qatnashishga qaror qiladi. Bu paytda qolgan musobaqa qatnashuvchilari Yer sayyorasini yoʻq boʻlib ketishdan saqlab qolish yoʻlida jangga qatnashishadi."
-        },
-        {
-            "year": "2024",
-            "episodes": "2-12",
-            "name": "Solo leveling[17+]",
-            "views": "7738",
-            "img": "Solo leveling",
-            "country": "Yaponiya",
-            "studio": "A-1 Pictures",
-            "director": "Nakashige Shunsuke",
-            "genre": "Ekshen Sarguzasht Fantaziya",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 2,
-            "desc": "Bundan 10 yil muqaddam dunyo boʻylab maʼlum bir “darvoza”lar ochilib boshlangan endi. Bu darvozalar maxluqotlar yashaydigan yerostiga olib borar edi. U yerdagi maxluqlarga hatto harbiy qoʻshin ham bas kelolmas edi. Ammo yerostidagi maxluqlar qirolini vaqtida yengsa, darvozalar toʻliq ochilmay qoladi, koʻzdan gʻoyib boʻlib, tinch aholi oʻz osuda hayotiga qaytadi. Maxluqlar qiroli bilan jang qila oladiganlar tanlanganlar xolos — maxluqotlar bilan olishish uchun qoʻlga kiritgan maxsus kuch-qobiliyatlari bor jangchilardir. Bundaylarni “ovchilar” deb atashadi. Ovchilar esa turli xil qobiliyatdan tortib, ishlash prinsipi jihatidan farq qiladigan xilma-xil kuchlar sohibiga aylanishadi. Masalan, ovchi Son Jinu eng quyi darajaga — E'ga tegishli. Oddiy odamlardan kuchli boʻlsa-da, har qaysi ovchidan bir necha borga kuchsiz. U yakka holda eng zaif va nimjon maxluqni ham yenga olmagani sabab guruh boʻlib, yerostiga jang qilishga tushishga majbur. Sheriklari yoʻlidan chiqqan har qaysi maxluqlarni birinchi boʻlib magʻlub etar ekan, Son Jinuga na bir oʻlja tegadi, jangchi sifatida oʻsa olmay qolib ketadi. Puldan qiynalayotganini hisobga olsak, qurol-aslahalarini yangilashga imkoni ham yoʻqligi tayin. Bir gap bilan, bolaning ahvoli chatoq. Biroq u ovchilikka aslo qoʻl siltamaydi, zero uning yaqini — komada ikki dunyo oraligʻida yotgan onasining kasalxonadagi qarzidan qutulmasa boʻlmaydi. Biroq hammasi oʻzgarib ketdi. Guruhi bilan quyi darajadagi yerostiga tushgan oʻsha kun ular juda bir gʻalati buyumga duch kelishdi. Tozalangan yerosti ichida yana bir yashirin yerosti borligini aniqlashdi. Istar-istamas ular ichkariga kirishdi. Kirishdi-yu oʻsha yerning oʻzida Son Jinuning joni uzildi. Kasalxonada oʻziga kelar ekan, tirik va lat ham yemaganiga amin boʻldi. Shunda toʻsatdan uning nigohi oldida oʻyin interfeysiga oʻxshash tasvir uzatila boshladi. Bu boshqa nimaga ham shama qilardi: oʻyin boshlandi! Ovchilar orasida eng nimjoni endilikda yakka tartibda oʻz darajasini osmonlarga koʻtarish vaqti keldi!"
-        },
-        {
-            "year": "2023",
-            "episodes": "10-?",
-            "name": "Omadsiz tirik murda [17+]",
-            "views": "12742",
-            "img": "Murda",
-            "country": "Yaponiya",
-            "studio": "David Production",
-            "director": "Yuki Yase",
-            "genre": "Syonen Ekshen Gʻayrioddiy Komediya",
-            "category": "Hamma animelar Ongoing",
-            "episode" : 10,
-            "desc": "Inson ijtimoiy mavjudot bo'lib, u boshqalar bilan nafaqat muloqot orqali, balki teginish orqali ham muloqot qilishni talab qiladi. Afsuski, Fuko Izumo teginish orqali omadsizlik keltiruvchi 'xususiyati' tufayli bu zavqdan mahrum. Shu sababli qiz juda ko'p qayg'u chekdi va uning uchun bu vaziyatdan chiqishning yagona yo'li o'lim edi. Shunday qilib, ko'prik ustida turib, uning keyingi dunyoga chiptasini kutayotgan Fuko uni to'xtatmoqchi bo'lgan g'alati yigitni uchratadi, lekin o'zi poezd ostiga tushib qoldi. Bir necha qismlarga bo'lingan eksantrik eng tirik bo'lib chiqdi! Va keyin, bir zumda o'zini tutib, yigit uni osonlikcha o'ldirish mumkin emasligini aytdi, chunki u oddiy odam emas, balki o'lmagan! Shu paytdan boshlab, Fuko va qiz Endi ismli eksantrik yigitni juda ko'p sarguzashtlar kutmoqda: qiziqarli odamlar bilan uchrashish, o'z kamchiliklarini bartaraf etish va g'ayrioddiy juftlik uchun rejalari bor sirli tashkilotga qarshi turish. Va eng muhimi, ular bir-birlariga juda zarur bo'lgan do'stni topadilar.            "
-        },
-        {
-            "year": "2023",
-            "episodes": "12",
-            "name": "Xarobalar qirolligi [17+]",
-            "views": "10883",
-            "img": "Xaroba"
-        },
-        {
-            "year": "2024",
-            "episodes": "1-12",
-            "name": "Jodugar va Maxluq [15+]",
-            "views": "1722",
-            "img": "Jodugar"
-        },
-        {
-            "year": "1999",
-            "episodes": "140-1200",
-            "name": "One piece [15+]",
-            "views": "24853",
-            "img": "Luffy"
-        }
-    ]
+  "register": [
+    {
+      "id": "848f",
+      "name": "Sadriddin",
+      "email": "ku@ede.com",
+      "password": "ukbj",
+      "confirm_password": "kjbn",
+      "status": "registered",
+      "balans": 0
+    }
+  ],
+  "signin": [
+    {
+      "id": "9994",
+      "name": "Sadriddin",
+      "number": "998931470124"
+    }
+  ],
+  "profile": [
+    {
+      "id": "d871",
+      "status": true
+    },
+    {
+      "id": "c345",
+      "status": false
+    },
+    {
+      "id": "c432",
+      "status": false
+    },
+    {
+      "id": "539d",
+      "status": true
+    }
+  ],
+  "numbers": [
+    {
+      "id": "d824",
+      "number": "998886330124"
+    },
+    {
+      "id": "0c58",
+      "number": "998931470124"
+    },
+    {
+      "id": "d211",
+      "number": "998886330124"
+    },
+    {
+      "id": "c4b8",
+      "number": "998886330124"
+    },
+    {
+      "id": "8bfe",
+      "number": "998886330124"
+    },
+    {
+      "id": "17a3",
+      "number": "998886330124"
+    },
+    {
+      "id": "b043",
+      "number": "998886330124"
+    },
+    {
+      "id": "9b67",
+      "number": "998886330124"
+    },
+    {
+      "id": "9943",
+      "number": "998886330124"
+    },
+    {
+      "id": "ed74",
+      "number": "998886330124"
+    },
+    {
+      "id": "5d64",
+      "number": "998886330124"
+    },
+    {
+      "id": "3d2a",
+      "number": "998886330124"
+    },
+    {
+      "id": "7900",
+      "number": "998886330124"
+    },
+    {
+      "id": "9c0a",
+      "number": "998886330124"
+    },
+    {
+      "id": "50f9",
+      "number": "998886330124"
+    },
+    {
+      "id": "83ce",
+      "number": "998886330124"
+    }
+  ],
+  "posts": [
+    {
+      "id": "a7d7",
+      "name": "Naruto: Bo'ron yilnomalari {TV-2}[15+]",
+      "country": "Yaponiya",
+      "heart": false,
+      "year": "2007",
+      "episodes": "157-500",
+      "views": "48483",
+      "img": "Naruto",
+      "studio": "Pierrot",
+      "director": "Osamu Koboyasi, Xayato Date, Masaxiko Murato, Tiaki Kon,",
+      "genre": "Ekshen Syonen Sarguzasht Fantaziya Fantastika Gʻayrioddiy Komediya Super kuch Jangari Triller Jang san'ati",
+      "category": "Hamma animelar Ongoing",
+      "episode": 157,
+      "image": "https://cdn.amediatv.uz/public/temp/4872abb930a4a32ea841214eaf31930a.webp",
+      "desc": "Chronicles bo'roni yosh ninja Naruto Uzumaki va uning do'stlarining sarguzashtlari haqidagi hikoyani davom ettiradi. Serial boshlanganiga uch yil bo‘ldi, qahramonlar ulg‘ayib, hayotiy tajriba orttirmoqda, mahoratini oshirmoqda. Naruto Yashirin Barg qishlog'iga qaytadi va ilgari u, Sasuke va Sakura islohotlaridan iborat jamoa. Undagi Sasuke o'rnini Sai ismli yosh nindzya egallaydi va ular birgalikda 'Kakashi jamoasi' nomini olishadi. Ammo bulutsiz hayot uzoq davom etmaydi. Konoxada birinchi Xokage qoldirgan eski kelishmovchiliklar yana avj oldi. Akatsuki rahbari dunyo hukmronligini orzu qiladi va Qum qishlog'ida eski sirlar qayta paydo bo'ladi. Tez orada butun dunyo jiddiy sinovlar va og'ir zarbalarga duch keladi."
+    },
+    {
+      "id": "84c1",
+      "name": "Sehr va mushaklar {TV-2}[13+]",
+      "country": "Yaponiya",
+      "heart": false,
+      "year": "2024",
+      "episodes": "2-12",
+      "views": "4927",
+      "img": "Sehr",
+      "studio": "A-1 Pictures",
+      "director": "Tanaka Tomoya",
+      "genre": "Ekshen Syonen Fantaziya Komediya Maktab",
+      "category": "Hamma animelar Ongoing",
+      "episode": 3,
+      "image": "https://cdn.amediatv.uz/public/temp/f248b002056192e122eebc96c4250577.jpeg",
+      "desc": "Sehrli dunyoda tugʻilish sehrgar boʻlib qolishni anglatmaydi. Bu dunyo ham oʻsha-oʻsha hayot tashvishlari-yu gʻalvalarga boy. Biroq bu yerda jamiyat shajarasidagi oʻrin-martaba iqtisodiy va aloqaviy boyliklar ustiga qurilmagan, balki kishining qanchalik kuchli sehr qudrat sohibi ekanligi birlamchi koʻrsatkichdir. Lekin, afsuslarki, Mesh Bornded bu jamiyatda oʻzini eng quyi oʻrinda topdi — unda na bir sehr kuch-qudrati bor edi. Tabiiyki, uni tezda isteʼdodsiz va yakkamoxovga chiqarishdi. Mesh oʻziga bino qurgan sehrgarlardan biror kam joyi yoʻqligini butun dunyoga isbotlash yoʻlida sehrgarlar akademiyasiga oʻqishga topshirdi. U yerda esa nom chiqargan talabalar akademiya ilohiy bashoratchisining nufuzli maqomiga ega boʻlishlari mumkin. Mabodo Mesh ilohiy bashoratchiga aylana olsa, u birdan jamiyatni istilo qilib, qonun-qoidalarni qayta yozdirishgacha vakolatli boʻlib qoladi! Mesh birinchi boʻlib zaif sehrgarlarni ularga qoʻyilgan isnod tamgʻasidan ozod qiladi, shu bilan u ularga oʻz qabiladoshlari tomonidan qaratilgan nafratga chek qoʻyadi. Toʻgʻri, hammasiga qoʻyib qoʻygan Meshning bunaqa ulugʻvor maqsadlari yoʻq aslida. U aslida sevimli dadajonisining kompaniyasida daromadli oʻrinlarda monopol boʻlib olish xolos. Bunga erishish uchun esa har bir sehrgarni magʻlub etish kerak. Mesh Baxt sehr-kuchda emasligini shubhalanayotganlarga isbotlab koʻrsatmasa boʻlmaydi chogʻi."
+    },
+    {
+      "id": "02ed",
+      "name": "Gintama [13+]",
+      "country": "Yaponiya",
+      "heart": false,
+      "year": "2006",
+      "episodes": "5-201",
+      "views": "4153",
+      "img": "Gintama",
+      "studio": "Sunrise",
+      "director": "Takamatsu Shinji",
+      "genre": "Syonen Ekshen Komediya Fantastika Tarixiy Jangari",
+      "category": "Hamma animelar Ongoing",
+      "episode": 6,
+      "image": "https://cdn.amediatv.uz/public/temp/c3721af1f4659394a422fb45c0e2e40e.jpeg",
+      "desc": "Feoadallar davridagi Yaponiyada yashash misoli mashaqqat demak… Oʻzga sayyoraliklar bosib olgan boʻlsa ayniqsa. Toʻgʻri, tatbiq etilgan yangi qonunlar meʼyordan chiqib ketgancha emas. Biroq qilich olib yurishga qoʻyilgan taqiq rosmana samuraylarni junbishga keltirmasdan qoʻymadi. Haqiqiy yapon ruhi unda mujassam etgan soʻnggi samuray boʻlmish Sakata Gintoki norozilar orasida hatto ajralib turardi. Gintoki olamdagi eng qudratli irq namoyandasi — Kagura hamda koʻzoynakli Shimura Shinpachilar bilan birga istiqomat qiladi. Uchovlon bir nom ostida “Gintoki janoblarining ishbilarmonlari” deb nomlangan agentlikni yoʻlga qoʻyar ekan, mushukni qutqarishdan tortib dunyoni asrab qolishgacha boʻlgan turli-tuman aqlga sigʻmas va bachkana vazifalarni buyurtma sifatida qabul qilishni boshlashadi. Aks holda uchovlon qanday qilib turarjoyiga pul toʻlay ham olardi? Yeb-ichari hisobga olinmadi hali."
+    },
+    {
+      "year": "2023",
+      "heart": false,
+      "episodes": "20-22",
+      "name": "Doktor Stoun: Yangi Dunyo {TV-3}[15+]",
+      "views": "9256",
+      "img": "Stoun",
+      "country": "Yaponiya",
+      "studio": "MS Entertainment",
+      "director": "Syuxey Matsusita",
+      "genre": "Fantastika Sarguzasht Komediya Syonen",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category2": false,
+      "episode": 20,
+      "desc": "Bir kuni Tayju Oki o'zini qo'lga olib, bir qizga sevgi izhor qilmoqchi bo'lganida, osmonni g'alati yorug'lik qoplidi. Uni ko'rgan barcha odamlar toshga aylandi. Deyarli to'rt ming yil o'tgach, u nihoyat tosh asirlikdan chiqib, atrofni o'rganishga kirishadi. Kutilmaganda, Tayjuni olti oy oldin uyg'ongan eski do'sti Senku kutib oladi. Senku Tayjuni o'zining daraxt uyiga olib keladi va odamlarni toshga aylantirgan yorug'likning asl mohiyatini kashf qilishdan boshlab, yo'qolgan insoniyat sivilizatsiyasini qayta tiklashini boshlashadi.",
+      "id": "c67a",
+      "image": "https://cdn.amediatv.uz/public/temp/454ed0aa541796295bd07add55ff11df.jpg"
+    },
+    {
+      "year": "2004",
+      "heart": false,
+      "episodes": "286-366",
+      "name": "Bleach {TV-1}[15+]",
+      "views": "48483",
+      "img": "Bleach",
+      "country": "Yaponiya",
+      "studio": "Pierrot",
+      "director": "Noriyuki Abe",
+      "genre": "Komediya Gʻayrioddiy Syonen Ekshen Sarguzasht Fantastika Maktab",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category2": false,
+      "episode": 286,
+      "desc": "Ichigo Kurosaki bolaligidan o'liklarning ruhlari va ruhlarini ko'rgan. Hozir u o'n besh yoshda, u zamonaviy Yaponiyada yashaydi va o'rta maktabda o'qiydi. Bir kuni uning yotoqxonasida Rukiya kuchiki ismli qiz to'satdan e'lon qilinadi. U shinigami va Ichigo nafaqat uni ko'rishi, balki eshitilmagan masala bilan ham shug'ullanishi mumkinligidan hayratda. Boshlangan munosabatlarni aniqlash bo'shning paydo bo'lishi bilan to'xtatiladi, uning orqasida Rukiya paydo bo'ldi. Bo'sh bilan jang muvaffaqiyatsiz bo'ladi: Ichigoni himoya qilishga majbur bo'lgan Rukiya jiddiy yaralanadi. Ichigoni qutqarish uchun u unga o'z qobiliyatining bir qismini beradi, lekin ajablanib, Ichigo uning barcha energiyasini o'zlashtiradi va o'zi sinigamiga aylanadi. Rukiyani kuchsiz va deyarli yordamsiz qoldirib, Ichigo bo'shni osonlikcha engib chiqadi.",
+      "id": "74c8",
+      "image": "https://cdn.amediatv.uz/public/temp/18f102d2b4665727b06f44c2ec89ff6e.jpg"
+    },
+    {
+      "year": "2019",
+      "heart": false,
+      "episodes": "12-24",
+      "name": "Yetti o'lim gunohlari: Ma'budlar g'azabi {TV-3} [15+]",
+      "views": "6841",
+      "img": "Meliodas",
+      "country": "Yaponiya",
+      "studio": "Studio Deen",
+      "director": "Susumu Nisidzava",
+      "genre": "Ekshen Sarguzasht Syonen Fantaziya",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category2": false,
+      "episode": 12,
+      "desc": "Uzoq kutilgan uchinchi fasl Buyuk Britaniyani O'n Ilohiy Amrning eng kuchli jinlaridan ozod qilish uchun kurashayotgan gunohkorlardan iborat 'Yetti o'lim gunoh' hikoyasini davom ettiradi. Ilgari otryad uchta amrni engishga muvaffaq bo'lgan, ammo bu faqat boshlanishi. Elizabeth Liones o'zining la'natlanganligini va yaqin o'limga duch kelganini bildi va Meliodas bu bilan kelisha olmadi. O'zining sevgilisini qutqarish uchun, u har qanday holatda ham jinlar shohi o'rnini egallash uchun o'zining iblis borlig'iga bo'ysunadi. Jamoaning qolgan a'zolari o'tgan Meliodasni qaytarish uchun bor kuchlari bilan harakat qilmoqdalar va buning uchun ular ko'plab sinovlardan o'tishlari kerak, shuningdek, O'n Amrga qarshi tura oladigan yangi ittifoqchilarni topishlari kerak.",
+      "id": "3795",
+      "image": "https://cdn.amediatv.uz/public/temp/f9f4afc3d05f3f97248afd6a0c061b17.jpg"
+    },
+    {
+      "id": "bfb5",
+      "name": "Mortal Kombat [17+]",
+      "country": "Amerika",
+      "heart": false,
+      "year": "2020",
+      "episodes": "1",
+      "views": "4216",
+      "img": "Mortal Kombat",
+      "studio": "Warner Bros",
+      "director": "Spaulding Iten",
+      "genre": "Anime Filmlar Yakunlangan Animelar Hamma animelar",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category3": false,
+      "category4": false,
+      "episode": 1,
+      "image": "https://cdn.amediatv.uz/public/temp/8293e6a311e022062e9fe098327cb9da.jpg",
+      "desc": "Raqib boʻlmish Lin Kuei avlodining hujumi oqibatida Hasashi Hanzo oilasidan judo boʻladi. Hasashi Hanzoga oʻz yaqinlarini qaytarib olishi uchun berilgan imkoniyatdan foydalangan holda u ichki oʻlchovli olamdagi musobaqada qatnashishga qaror qiladi. Bu paytda qolgan musobaqa qatnashuvchilari Yer sayyorasini yoʻq boʻlib ketishdan saqlab qolish yoʻlida jangga qatnashishadi."
+    },
+    {
+      "year": "2024",
+      "heart": false,
+      "episodes": "2-12",
+      "name": "Solo leveling[17+]",
+      "views": "7738",
+      "img": "Solo leveling",
+      "country": "Yaponiya",
+      "studio": "A-1 Pictures",
+      "director": "Nakashige Shunsuke",
+      "genre": "Ekshen Sarguzasht Fantaziya",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category2": false,
+      "episode": 2,
+      "desc": "Bundan 10 yil muqaddam dunyo boʻylab maʼlum bir “darvoza”lar ochilib boshlangan endi. Bu darvozalar maxluqotlar yashaydigan yerostiga olib borar edi. U yerdagi maxluqlarga hatto harbiy qoʻshin ham bas kelolmas edi. Ammo yerostidagi maxluqlar qirolini vaqtida yengsa, darvozalar toʻliq ochilmay qoladi, koʻzdan gʻoyib boʻlib, tinch aholi oʻz osuda hayotiga qaytadi. Maxluqlar qiroli bilan jang qila oladiganlar tanlanganlar xolos — maxluqotlar bilan olishish uchun qoʻlga kiritgan maxsus kuch-qobiliyatlari bor jangchilardir. Bundaylarni “ovchilar” deb atashadi. Ovchilar esa turli xil qobiliyatdan tortib, ishlash prinsipi jihatidan farq qiladigan xilma-xil kuchlar sohibiga aylanishadi. Masalan, ovchi Son Jinu eng quyi darajaga — E'ga tegishli. Oddiy odamlardan kuchli boʻlsa-da, har qaysi ovchidan bir necha borga kuchsiz. U yakka holda eng zaif va nimjon maxluqni ham yenga olmagani sabab guruh boʻlib, yerostiga jang qilishga tushishga majbur. Sheriklari yoʻlidan chiqqan har qaysi maxluqlarni birinchi boʻlib magʻlub etar ekan, Son Jinuga na bir oʻlja tegadi, jangchi sifatida oʻsa olmay qolib ketadi. Puldan qiynalayotganini hisobga olsak, qurol-aslahalarini yangilashga imkoni ham yoʻqligi tayin. Bir gap bilan, bolaning ahvoli chatoq. Biroq u ovchilikka aslo qoʻl siltamaydi, zero uning yaqini — komada ikki dunyo oraligʻida yotgan onasining kasalxonadagi qarzidan qutulmasa boʻlmaydi. Biroq hammasi oʻzgarib ketdi. Guruhi bilan quyi darajadagi yerostiga tushgan oʻsha kun ular juda bir gʻalati buyumga duch kelishdi. Tozalangan yerosti ichida yana bir yashirin yerosti borligini aniqlashdi. Istar-istamas ular ichkariga kirishdi. Kirishdi-yu oʻsha yerning oʻzida Son Jinuning joni uzildi. Kasalxonada oʻziga kelar ekan, tirik va lat ham yemaganiga amin boʻldi. Shunda toʻsatdan uning nigohi oldida oʻyin interfeysiga oʻxshash tasvir uzatila boshladi. Bu boshqa nimaga ham shama qilardi: oʻyin boshlandi! Ovchilar orasida eng nimjoni endilikda yakka tartibda oʻz darajasini osmonlarga koʻtarish vaqti keldi!",
+      "id": "107a",
+      "image": "https://cdn.amediatv.uz/public/temp/9f19f8beeb54ada1dbe00070a35bc638.jpeg"
+    },
+    {
+      "year": "2023",
+      "heart": false,
+      "episodes": "10-?",
+      "name": "Omadsiz tirik murda [17+]",
+      "views": "12742",
+      "img": "Murda",
+      "country": "Yaponiya",
+      "studio": "David Production",
+      "director": "Yuki Yase",
+      "genre": "Syonen Ekshen Gʻayrioddiy Komediya",
+      "category": "Hamma animelar Ongoing",
+      "category1": false,
+      "category3": false,
+      "episode": 10,
+      "desc": "Inson ijtimoiy mavjudot bo'lib, u boshqalar bilan nafaqat muloqot orqali, balki teginish orqali ham muloqot qilishni talab qiladi. Afsuski, Fuko Izumo teginish orqali omadsizlik keltiruvchi 'xususiyati' tufayli bu zavqdan mahrum. Shu sababli qiz juda ko'p qayg'u chekdi va uning uchun bu vaziyatdan chiqishning yagona yo'li o'lim edi. Shunday qilib, ko'prik ustida turib, uning keyingi dunyoga chiptasini kutayotgan Fuko uni to'xtatmoqchi bo'lgan g'alati yigitni uchratadi, lekin o'zi poezd ostiga tushib qoldi. Bir necha qismlarga bo'lingan eksantrik eng tirik bo'lib chiqdi! Va keyin, bir zumda o'zini tutib, yigit uni osonlikcha o'ldirish mumkin emasligini aytdi, chunki u oddiy odam emas, balki o'lmagan! Shu paytdan boshlab, Fuko va qiz Endi ismli eksantrik yigitni juda ko'p sarguzashtlar kutmoqda: qiziqarli odamlar bilan uchrashish, o'z kamchiliklarini bartaraf etish va g'ayrioddiy juftlik uchun rejalari bor sirli tashkilotga qarshi turish. Va eng muhimi, ular bir-birlariga juda zarur bo'lgan do'stni topadilar.            ",
+      "id": "84a0",
+      "image": "https://cdn.amediatv.uz/public/temp/01aa095b438b0bfe2eb1ce90303b5a1f.webp"
+    },
+    {
+      "id": "bae7",
+      "name": "Xarobalar qirolligi [17+]",
+      "heart": false,
+      "year": "2023",
+      "episodes": "12",
+      "views": "10883",
+      "img": "Xaroba",
+      "image": "https://cdn.amediatv.uz/public/temp/02bb59b84d78215e78eb503fa762fbf6.webp"
+    },
+    {
+      "year": "2024",
+      "heart": false,
+      "episodes": "1-12",
+      "name": "Jodugar va Maxluq [15+]",
+      "views": "1722",
+      "img": "Jodugar",
+      "id": "4fb6",
+      "image": "https://cdn.amediatv.uz/public/temp/f04c6acb08a881b0a5b6f3bfdd498a53.jpeg"
+    },
+    {
+      "year": "1999",
+      "heart": false,
+      "episodes": "140-1200",
+      "name": "One piece [15+]",
+      "views": "24853",
+      "img": "Luffy",
+      "id": "b804",
+      "image": "https://cdn.amediatv.uz/public/temp/35e1d17cdba121c7c1d03759e50f874f.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Hamma animelar",
+      "active": true
+    },
+    {
+      "id": "2",
+      "title": "Ongoing",
+      "active": false
+    },
+    {
+      "id": "3",
+      "title": "Yakunlangan animelar",
+      "active": false
+    },
+    {
+      "id": "4",
+      "title": "Anime filmlar",
+      "active": false
+    },
+    {
+      "id": "5",
+      "title": "Amedia content",
+      "active": false
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "title": "Psixologik",
+      "active": false
+    },
+    {
+      "id": "2",
+      "title": "Fantastika",
+      "active": false
+    },
+    {
+      "id": "3",
+      "title": "Qo'rqinchli",
+      "active": false
+    },
+    {
+      "id": "4",
+      "title": "Ekshen",
+      "active": false
+    },
+    {
+      "id": "5",
+      "title": "Syonen",
+      "active": false
+    },
+    {
+      "id": "6",
+      "title": "Sarguzasht",
+      "active": false
+    },
+    {
+      "id": "7",
+      "title": "Drama",
+      "active": false
+    },
+    {
+      "id": "8",
+      "title": "Fantaziy",
+      "active": false
+    },
+    {
+      "id": "9",
+      "title": "Harbiy",
+      "active": false
+    },
+    {
+      "id": "10",
+      "title": "Romantika",
+      "active": false
+    },
+    {
+      "id": "11",
+      "title": "Syoziy",
+      "active": false
+    },
+    {
+      "id": "12",
+      "title": "G'ayrioddiy",
+      "active": false
+    },
+    {
+      "id": "13",
+      "title": "Musiqiy",
+      "active": false
+    },
+    {
+      "id": "14",
+      "title": "Maktab",
+      "active": false
+    },
+    {
+      "id": "15",
+      "title": "Tarixiy",
+      "active": false
+    },
+    {
+      "id": "16",
+      "title": "Komediya",
+      "active": false
+    },
+    {
+      "id": "17",
+      "title": "Mexa",
+      "active": false
+    },
+    {
+      "id": "18",
+      "title": "Super Kuch",
+      "active": false
+    },
+    {
+      "id": "19",
+      "title": "Etti",
+      "active": false
+    },
+    {
+      "id": "20",
+      "title": "Garem",
+      "active": false
+    },
+    {
+      "id": "21",
+      "title": "Kundalik hayot",
+      "active": false
+    },
+    {
+      "id": "22",
+      "title": "Detektiv",
+      "active": false
+    },
+    {
+      "id": "23",
+      "title": "Jangari",
+      "active": false
+    },
+    {
+      "id": "24",
+      "title": "O'zga dunyo",
+      "active": false
+    },
+    {
+      "id": "25",
+      "title": "Triller",
+      "active": false
+    },
+    {
+      "id": "26",
+      "title": "Sehr",
+      "active": false
+    },
+    {
+      "id": "27",
+      "title": "Sport",
+      "active": false
+    },
+    {
+      "id": "28",
+      "title": "O'yinlar",
+      "active": false
+    },
+    {
+      "id": "29",
+      "title": "Tragediya",
+      "active": false
+    },
+    {
+      "id": "30",
+      "title": "Jang san'ati",
+      "active": false
+    },
+    {
+      "id": "31",
+      "title": "Ish",
+      "active": false
+    },
+    {
+      "id": "32",
+      "title": "Kosmos",
+      "active": false
+    },
+    {
+      "id": "33",
+      "title": "Mashinalar",
+      "active": false
+    },
+    {
+      "id": "34",
+      "title": "Iblislar",
+      "active": false
+    },
+    {
+      "id": "35",
+      "title": "Bolalar uchun",
+      "active": false
+    }
+  ],
+  "years": [
+    {
+      "id": "1",
+      "title": 1991,
+      "active": false
+    },
+    {
+      "id": "2",
+      "title": 1992,
+      "active": false
+    },
+    {
+      "id": "3",
+      "title": 1993,
+      "active": false
+    },
+    {
+      "id": "4",
+      "title": 1994,
+      "active": false
+    },
+    {
+      "id": "5",
+      "title": 1995,
+      "active": false
+    },
+    {
+      "id": "6",
+      "title": 1996,
+      "active": false
+    },
+    {
+      "id": "7",
+      "title": 1997,
+      "active": false
+    },
+    {
+      "id": "8",
+      "title": 1998,
+      "active": false
+    },
+    {
+      "id": "9",
+      "title": 1999,
+      "active": false
+    },
+    {
+      "id": "10",
+      "title": 2000,
+      "active": false
+    },
+    {
+      "id": "11",
+      "title": 2001,
+      "active": false
+    },
+    {
+      "id": "12",
+      "title": 2002,
+      "active": false
+    },
+    {
+      "id": "13",
+      "title": 2003,
+      "active": false
+    },
+    {
+      "id": "14",
+      "title": 2004,
+      "active": false
+    },
+    {
+      "id": "15",
+      "title": 2005,
+      "active": false
+    },
+    {
+      "id": "16",
+      "title": 2006,
+      "active": false
+    },
+    {
+      "id": "17",
+      "title": 2007,
+      "active": false
+    },
+    {
+      "id": "18",
+      "title": 2008,
+      "active": false
+    },
+    {
+      "id": "19",
+      "title": 2009,
+      "active": false
+    },
+    {
+      "id": "20",
+      "title": 2010,
+      "active": false
+    },
+    {
+      "id": "21",
+      "title": 2011,
+      "active": false
+    },
+    {
+      "id": "22",
+      "title": 2012,
+      "active": false
+    },
+    {
+      "id": "23",
+      "title": 2013,
+      "active": false
+    },
+    {
+      "id": "24",
+      "title": 2014,
+      "active": false
+    },
+    {
+      "id": "25",
+      "title": 2015,
+      "active": false
+    },
+    {
+      "id": "26",
+      "title": 2016,
+      "active": false
+    },
+    {
+      "id": "27",
+      "title": 2017,
+      "active": false
+    },
+    {
+      "id": "28",
+      "title": 2018,
+      "active": false
+    },
+    {
+      "id": "29",
+      "title": 2019,
+      "active": false
+    },
+    {
+      "id": "30",
+      "title": 2020,
+      "active": false
+    },
+    {
+      "id": "31",
+      "title": 2021,
+      "active": false
+    },
+    {
+      "id": "32",
+      "title": 2022,
+      "active": false
+    },
+    {
+      "id": "33",
+      "title": 2023,
+      "active": false
+    },
+    {
+      "id": "34",
+      "title": 2024,
+      "active": false
+    }
+  ]
 }
